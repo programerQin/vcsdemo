@@ -5,5 +5,7 @@
  * @Copyright： 老当益壮，奋起直追！
  */
 public class Test {
-    
+    public static void main(String[] args) {
+        System.out.println("commit!");
+    }
 }
