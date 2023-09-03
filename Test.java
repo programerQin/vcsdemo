@@ -9,5 +9,6 @@ public class Test {
         System.out.println("commit!");
         System.out.println("push!");
         System.out.println(" ");
+        System.out.println("haha");
     }
 }
