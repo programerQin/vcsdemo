@@ -10,5 +10,6 @@ public class Test {
         System.out.println("push!");
         System.out.println(" ");
         System.out.println("haha");
+        System.out.println("abs");
     }
 }
