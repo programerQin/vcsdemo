@@ -12,6 +12,7 @@ public class Test {
         System.out.println("haha");
         System.out.println("abs");
         System.out.println("bb");
+        System.out.println("remote");
     }
 }
 
